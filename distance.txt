@@ -1,0 +1,272 @@
+Source: ENTERENCE-1, Destination: ENTERENCE-2, Distance: 500
+Source: ENTERENCE-1, Destination: BIKE PARKING, Distance: 100
+Source: ENTERENCE-1, Destination: CAR PARKING, Distance: 200
+Source: ENTERENCE-1, Destination: AUDITORIUM, Distance: 500
+Source: ENTERENCE-1, Destination: LAB BLOCK, Distance: 350
+Source: ENTERENCE-1, Destination: MAIN BLOCK, Distance: 450
+Source: ENTERENCE-1, Destination: IT BLOCK, Distance: 650
+Source: ENTERENCE-1, Destination: LIBRARY BLOCK, Distance: 650
+Source: ENTERENCE-1, Destination: MSC BLOCK, Distance: 750
+Source: ENTERENCE-1, Destination: TEMPLE, Distance: 900
+Source: ENTERENCE-1, Destination: MAIN GROUND, Distance: 1050
+Source: ENTERENCE-1, Destination: CANTEEN, Distance: 1300
+Source: ENTERENCE-1, Destination: FOOD STREET, Distance: 1400
+Source: ENTERENCE-1, Destination: STUDENT STORE, Distance: 1650
+Source: ENTERENCE-1, Destination: GIRLS HOSTEL, Distance: 1850
+Source: ENTERENCE-1, Destination: BOYS HOSTEL, Distance: 2050
+Source: ENTERENCE-2, Destination: ENTERENCE-1, Distance: 500
+Source: ENTERENCE-2, Destination: BIKE PARKING, Distance: 600
+Source: ENTERENCE-2, Destination: CAR PARKING, Distance: 700
+Source: ENTERENCE-2, Destination: AUDITORIUM, Distance: 1000
+Source: ENTERENCE-2, Destination: LAB BLOCK, Distance: 850
+Source: ENTERENCE-2, Destination: MAIN BLOCK, Distance: 950
+Source: ENTERENCE-2, Destination: IT BLOCK, Distance: 1150
+Source: ENTERENCE-2, Destination: LIBRARY BLOCK, Distance: 1150
+Source: ENTERENCE-2, Destination: MSC BLOCK, Distance: 1250
+Source: ENTERENCE-2, Destination: TEMPLE, Distance: 1400
+Source: ENTERENCE-2, Destination: MAIN GROUND, Distance: 1550
+Source: ENTERENCE-2, Destination: CANTEEN, Distance: 1800
+Source: ENTERENCE-2, Destination: FOOD STREET, Distance: 1900
+Source: ENTERENCE-2, Destination: STUDENT STORE, Distance: 2150
+Source: ENTERENCE-2, Destination: GIRLS HOSTEL, Distance: 2350
+Source: ENTERENCE-2, Destination: BOYS HOSTEL, Distance: 2550
+Source: BIKE PARKING, Destination: ENTERENCE-1, Distance: 100
+Source: BIKE PARKING, Destination: ENTERENCE-2, Distance: 600
+Source: BIKE PARKING, Destination: CAR PARKING, Distance: 300
+Source: BIKE PARKING, Destination: AUDITORIUM, Distance: 700
+Source: BIKE PARKING, Destination: LAB BLOCK, Distance: 450
+Source: BIKE PARKING, Destination: MAIN BLOCK, Distance: 550
+Source: BIKE PARKING, Destination: IT BLOCK, Distance: 750
+Source: BIKE PARKING, Destination: LIBRARY BLOCK, Distance: 750
+Source: BIKE PARKING, Destination: MSC BLOCK, Distance: 850
+Source: BIKE PARKING, Destination: TEMPLE, Distance: 1000
+Source: BIKE PARKING, Destination: MAIN GROUND, Distance: 1150
+Source: BIKE PARKING, Destination: CANTEEN, Distance: 1400
+Source: BIKE PARKING, Destination: FOOD STREET, Distance: 1500
+Source: BIKE PARKING, Destination: STUDENT STORE, Distance: 1750
+Source: BIKE PARKING, Destination: GIRLS HOSTEL, Distance: 1950
+Source: BIKE PARKING, Destination: BOYS HOSTEL, Distance: 2150
+Source: CAR PARKING, Destination: ENTERENCE-1, Distance: 200
+Source: CAR PARKING, Destination: ENTERENCE-2, Distance: 700
+Source: CAR PARKING, Destination: BIKE PARKING, Distance: 300
+Source: CAR PARKING, Destination: AUDITORIUM, Distance: 300
+Source: CAR PARKING, Destination: LAB BLOCK, Distance: 550
+Source: CAR PARKING, Destination: MAIN BLOCK, Distance: 350
+Source: CAR PARKING, Destination: IT BLOCK, Distance: 450
+Source: CAR PARKING, Destination: LIBRARY BLOCK, Distance: 450
+Source: CAR PARKING, Destination: MSC BLOCK, Distance: 550
+Source: CAR PARKING, Destination: TEMPLE, Distance: 700
+Source: CAR PARKING, Destination: MAIN GROUND, Distance: 850
+Source: CAR PARKING, Destination: CANTEEN, Distance: 1100
+Source: CAR PARKING, Destination: FOOD STREET, Distance: 1200
+Source: CAR PARKING, Destination: STUDENT STORE, Distance: 1450
+Source: CAR PARKING, Destination: GIRLS HOSTEL, Distance: 1650
+Source: CAR PARKING, Destination: BOYS HOSTEL, Distance: 1850
+Source: AUDITORIUM, Destination: ENTERENCE-1, Distance: 500
+Source: AUDITORIUM, Destination: ENTERENCE-2, Distance: 1000
+Source: AUDITORIUM, Destination: BIKE PARKING, Distance: 700
+Source: AUDITORIUM, Destination: CAR PARKING, Distance: 300
+Source: AUDITORIUM, Destination: LAB BLOCK, Distance: 250
+Source: AUDITORIUM, Destination: MAIN BLOCK, Distance: 50
+Source: AUDITORIUM, Destination: IT BLOCK, Distance: 150
+Source: AUDITORIUM, Destination: LIBRARY BLOCK, Distance: 150
+Source: AUDITORIUM, Destination: MSC BLOCK, Distance: 250
+Source: AUDITORIUM, Destination: TEMPLE, Distance: 400
+Source: AUDITORIUM, Destination: MAIN GROUND, Distance: 550
+Source: AUDITORIUM, Destination: CANTEEN, Distance: 900
+Source: AUDITORIUM, Destination: FOOD STREET, Distance: 1000
+Source: AUDITORIUM, Destination: STUDENT STORE, Distance: 1250
+Source: AUDITORIUM, Destination: GIRLS HOSTEL, Distance: 1450
+Source: AUDITORIUM, Destination: BOYS HOSTEL, Distance: 1650
+Source: LAB BLOCK, Destination: ENTERENCE-1, Distance: 350
+Source: LAB BLOCK, Destination: ENTERENCE-2, Distance: 850
+Source: LAB BLOCK, Destination: BIKE PARKING, Distance: 450
+Source: LAB BLOCK, Destination: CAR PARKING, Distance: 550
+Source: LAB BLOCK, Destination: AUDITORIUM, Distance: 250
+Source: LAB BLOCK, Destination: MAIN BLOCK, Distance: 200
+Source: LAB BLOCK, Destination: IT BLOCK, Distance: 400
+Source: LAB BLOCK, Destination: LIBRARY BLOCK, Distance: 400
+Source: LAB BLOCK, Destination: MSC BLOCK, Distance: 500
+Source: LAB BLOCK, Destination: TEMPLE, Distance: 650
+Source: LAB BLOCK, Destination: MAIN GROUND, Distance: 800
+Source: LAB BLOCK, Destination: CANTEEN, Distance: 1150
+Source: LAB BLOCK, Destination: FOOD STREET, Distance: 1250
+Source: LAB BLOCK, Destination: STUDENT STORE, Distance: 1500
+Source: LAB BLOCK, Destination: GIRLS HOSTEL, Distance: 1700
+Source: LAB BLOCK, Destination: BOYS HOSTEL, Distance: 1900
+Source: MAIN BLOCK, Destination: ENTERENCE-1, Distance: 450
+Source: MAIN BLOCK, Destination: ENTERENCE-2, Distance: 950
+Source: MAIN BLOCK, Destination: BIKE PARKING, Distance: 550
+Source: MAIN BLOCK, Destination: CAR PARKING, Distance: 350
+Source: MAIN BLOCK, Destination: AUDITORIUM, Distance: 50
+Source: MAIN BLOCK, Destination: LAB BLOCK, Distance: 200
+Source: MAIN BLOCK, Destination: IT BLOCK, Distance: 200
+Source: MAIN BLOCK, Destination: LIBRARY BLOCK, Distance: 200
+Source: MAIN BLOCK, Destination: MSC BLOCK, Distance: 300
+Source: MAIN BLOCK, Destination: TEMPLE, Distance: 450
+Source: MAIN BLOCK, Destination: MAIN GROUND, Distance: 600
+Source: MAIN BLOCK, Destination: CANTEEN, Distance: 950
+Source: MAIN BLOCK, Destination: FOOD STREET, Distance: 1050
+Source: MAIN BLOCK, Destination: STUDENT STORE, Distance: 1300
+Source: MAIN BLOCK, Destination: GIRLS HOSTEL, Distance: 1500
+Source: MAIN BLOCK, Destination: BOYS HOSTEL, Distance: 1700
+Source: IT BLOCK, Destination: ENTERENCE-1, Distance: 650
+Source: IT BLOCK, Destination: ENTERENCE-2, Distance: 1150
+Source: IT BLOCK, Destination: BIKE PARKING, Distance: 750
+Source: IT BLOCK, Destination: CAR PARKING, Distance: 450
+Source: IT BLOCK, Destination: AUDITORIUM, Distance: 150
+Source: IT BLOCK, Destination: LAB BLOCK, Distance: 400
+Source: IT BLOCK, Destination: MAIN BLOCK, Distance: 200
+Source: IT BLOCK, Destination: LIBRARY BLOCK, Distance: 0
+Source: IT BLOCK, Destination: MSC BLOCK, Distance: 100
+Source: IT BLOCK, Destination: TEMPLE, Distance: 250
+Source: IT BLOCK, Destination: MAIN GROUND, Distance: 400
+Source: IT BLOCK, Destination: CANTEEN, Distance: 750
+Source: IT BLOCK, Destination: FOOD STREET, Distance: 850
+Source: IT BLOCK, Destination: STUDENT STORE, Distance: 1100
+Source: IT BLOCK, Destination: GIRLS HOSTEL, Distance: 1300
+Source: IT BLOCK, Destination: BOYS HOSTEL, Distance: 1500
+Source: LIBRARY BLOCK, Destination: ENTERENCE-1, Distance: 650
+Source: LIBRARY BLOCK, Destination: ENTERENCE-2, Distance: 1150
+Source: LIBRARY BLOCK, Destination: BIKE PARKING, Distance: 750
+Source: LIBRARY BLOCK, Destination: CAR PARKING, Distance: 450
+Source: LIBRARY BLOCK, Destination: AUDITORIUM, Distance: 150
+Source: LIBRARY BLOCK, Destination: LAB BLOCK, Distance: 400
+Source: LIBRARY BLOCK, Destination: MAIN BLOCK, Distance: 200
+Source: LIBRARY BLOCK, Destination: IT BLOCK, Distance: 0
+Source: LIBRARY BLOCK, Destination: MSC BLOCK, Distance: 100
+Source: LIBRARY BLOCK, Destination: TEMPLE, Distance: 250
+Source: LIBRARY BLOCK, Destination: MAIN GROUND, Distance: 400
+Source: LIBRARY BLOCK, Destination: CANTEEN, Distance: 750
+Source: LIBRARY BLOCK, Destination: FOOD STREET, Distance: 850
+Source: LIBRARY BLOCK, Destination: STUDENT STORE, Distance: 1100
+Source: LIBRARY BLOCK, Destination: GIRLS HOSTEL, Distance: 1300
+Source: LIBRARY BLOCK, Destination: BOYS HOSTEL, Distance: 1500
+Source: MSC BLOCK, Destination: ENTERENCE-1, Distance: 750
+Source: MSC BLOCK, Destination: ENTERENCE-2, Distance: 1250
+Source: MSC BLOCK, Destination: BIKE PARKING, Distance: 850
+Source: MSC BLOCK, Destination: CAR PARKING, Distance: 550
+Source: MSC BLOCK, Destination: AUDITORIUM, Distance: 250
+Source: MSC BLOCK, Destination: LAB BLOCK, Distance: 500
+Source: MSC BLOCK, Destination: MAIN BLOCK, Distance: 300
+Source: MSC BLOCK, Destination: IT BLOCK, Distance: 100
+Source: MSC BLOCK, Destination: LIBRARY BLOCK, Distance: 100
+Source: MSC BLOCK, Destination: TEMPLE, Distance: 150
+Source: MSC BLOCK, Destination: MAIN GROUND, Distance: 300
+Source: MSC BLOCK, Destination: CANTEEN, Distance: 650
+Source: MSC BLOCK, Destination: FOOD STREET, Distance: 750
+Source: MSC BLOCK, Destination: STUDENT STORE, Distance: 1000
+Source: MSC BLOCK, Destination: GIRLS HOSTEL, Distance: 1200
+Source: MSC BLOCK, Destination: BOYS HOSTEL, Distance: 1400
+Source: TEMPLE, Destination: ENTERENCE-1, Distance: 900
+Source: TEMPLE, Destination: ENTERENCE-2, Distance: 1400
+Source: TEMPLE, Destination: BIKE PARKING, Distance: 1000
+Source: TEMPLE, Destination: CAR PARKING, Distance: 700
+Source: TEMPLE, Destination: AUDITORIUM, Distance: 400
+Source: TEMPLE, Destination: LAB BLOCK, Distance: 650
+Source: TEMPLE, Destination: MAIN BLOCK, Distance: 450
+Source: TEMPLE, Destination: IT BLOCK, Distance: 250
+Source: TEMPLE, Destination: LIBRARY BLOCK, Distance: 250
+Source: TEMPLE, Destination: MSC BLOCK, Distance: 150
+Source: TEMPLE, Destination: MAIN GROUND, Distance: 300
+Source: TEMPLE, Destination: CANTEEN, Distance: 650
+Source: TEMPLE, Destination: FOOD STREET, Distance: 750
+Source: TEMPLE, Destination: STUDENT STORE, Distance: 1000
+Source: TEMPLE, Destination: GIRLS HOSTEL, Distance: 1200
+Source: TEMPLE, Destination: BOYS HOSTEL, Distance: 1400
+Source: MAIN GROUND, Destination: ENTERENCE-1, Distance: 1050
+Source: MAIN GROUND, Destination: ENTERENCE-2, Distance: 1550
+Source: MAIN GROUND, Destination: BIKE PARKING, Distance: 1150
+Source: MAIN GROUND, Destination: CAR PARKING, Distance: 850
+Source: MAIN GROUND, Destination: AUDITORIUM, Distance: 550
+Source: MAIN GROUND, Destination: LAB BLOCK, Distance: 800
+Source: MAIN GROUND, Destination: MAIN BLOCK, Distance: 600
+Source: MAIN GROUND, Destination: IT BLOCK, Distance: 400
+Source: MAIN GROUND, Destination: LIBRARY BLOCK, Distance: 400
+Source: MAIN GROUND, Destination: MSC BLOCK, Distance: 300
+Source: MAIN GROUND, Destination: TEMPLE, Distance: 300
+Source: MAIN GROUND, Destination: CANTEEN, Distance: 350
+Source: MAIN GROUND, Destination: FOOD STREET, Distance: 450
+Source: MAIN GROUND, Destination: STUDENT STORE, Distance: 700
+Source: MAIN GROUND, Destination: GIRLS HOSTEL, Distance: 900
+Source: MAIN GROUND, Destination: BOYS HOSTEL, Distance: 1100
+Source: CANTEEN, Destination: ENTERENCE-1, Distance: 1300
+Source: CANTEEN, Destination: ENTERENCE-2, Distance: 1800
+Source: CANTEEN, Destination: BIKE PARKING, Distance: 1400
+Source: CANTEEN, Destination: CAR PARKING, Distance: 1100
+Source: CANTEEN, Destination: AUDITORIUM, Distance: 900
+Source: CANTEEN, Destination: LAB BLOCK, Distance: 1150
+Source: CANTEEN, Destination: MAIN BLOCK, Distance: 950
+Source: CANTEEN, Destination: IT BLOCK, Distance: 750
+Source: CANTEEN, Destination: LIBRARY BLOCK, Distance: 750
+Source: CANTEEN, Destination: MSC BLOCK, Distance: 650
+Source: CANTEEN, Destination: TEMPLE, Distance: 650
+Source: CANTEEN, Destination: MAIN GROUND, Distance: 350
+Source: CANTEEN, Destination: FOOD STREET, Distance: 100
+Source: CANTEEN, Destination: STUDENT STORE, Distance: 350
+Source: CANTEEN, Destination: GIRLS HOSTEL, Distance: 550
+Source: CANTEEN, Destination: BOYS HOSTEL, Distance: 750
+Source: FOOD STREET, Destination: ENTERENCE-1, Distance: 1400
+Source: FOOD STREET, Destination: ENTERENCE-2, Distance: 1900
+Source: FOOD STREET, Destination: BIKE PARKING, Distance: 1500
+Source: FOOD STREET, Destination: CAR PARKING, Distance: 1200
+Source: FOOD STREET, Destination: AUDITORIUM, Distance: 1000
+Source: FOOD STREET, Destination: LAB BLOCK, Distance: 1250
+Source: FOOD STREET, Destination: MAIN BLOCK, Distance: 1050
+Source: FOOD STREET, Destination: IT BLOCK, Distance: 850
+Source: FOOD STREET, Destination: LIBRARY BLOCK, Distance: 850
+Source: FOOD STREET, Destination: MSC BLOCK, Distance: 750
+Source: FOOD STREET, Destination: TEMPLE, Distance: 750
+Source: FOOD STREET, Destination: MAIN GROUND, Distance: 450
+Source: FOOD STREET, Destination: CANTEEN, Distance: 100
+Source: FOOD STREET, Destination: STUDENT STORE, Distance: 250
+Source: FOOD STREET, Destination: GIRLS HOSTEL, Distance: 450
+Source: FOOD STREET, Destination: BOYS HOSTEL, Distance: 650
+Source: STUDENT STORE, Destination: ENTERENCE-1, Distance: 1650
+Source: STUDENT STORE, Destination: ENTERENCE-2, Distance: 2150
+Source: STUDENT STORE, Destination: BIKE PARKING, Distance: 1750
+Source: STUDENT STORE, Destination: CAR PARKING, Distance: 1450
+Source: STUDENT STORE, Destination: AUDITORIUM, Distance: 1250
+Source: STUDENT STORE, Destination: LAB BLOCK, Distance: 1500
+Source: STUDENT STORE, Destination: MAIN BLOCK, Distance: 1300
+Source: STUDENT STORE, Destination: IT BLOCK, Distance: 1100
+Source: STUDENT STORE, Destination: LIBRARY BLOCK, Distance: 1100
+Source: STUDENT STORE, Destination: MSC BLOCK, Distance: 1000
+Source: STUDENT STORE, Destination: TEMPLE, Distance: 1000
+Source: STUDENT STORE, Destination: MAIN GROUND, Distance: 700
+Source: STUDENT STORE, Destination: CANTEEN, Distance: 350
+Source: STUDENT STORE, Destination: FOOD STREET, Distance: 250
+Source: STUDENT STORE, Destination: GIRLS HOSTEL, Distance: 200
+Source: STUDENT STORE, Destination: BOYS HOSTEL, Distance: 400
+Source: GIRLS HOSTEL, Destination: ENTERENCE-1, Distance: 1850
+Source: GIRLS HOSTEL, Destination: ENTERENCE-2, Distance: 2350
+Source: GIRLS HOSTEL, Destination: BIKE PARKING, Distance: 1950
+Source: GIRLS HOSTEL, Destination: CAR PARKING, Distance: 1650
+Source: GIRLS HOSTEL, Destination: AUDITORIUM, Distance: 1450
+Source: GIRLS HOSTEL, Destination: LAB BLOCK, Distance: 1700
+Source: GIRLS HOSTEL, Destination: MAIN BLOCK, Distance: 1500
+Source: GIRLS HOSTEL, Destination: IT BLOCK, Distance: 1300
+Source: GIRLS HOSTEL, Destination: LIBRARY BLOCK, Distance: 1300
+Source: GIRLS HOSTEL, Destination: MSC BLOCK, Distance: 1200
+Source: GIRLS HOSTEL, Destination: TEMPLE, Distance: 1200
+Source: GIRLS HOSTEL, Destination: MAIN GROUND, Distance: 900
+Source: GIRLS HOSTEL, Destination: CANTEEN, Distance: 550
+Source: GIRLS HOSTEL, Destination: FOOD STREET, Distance: 450
+Source: GIRLS HOSTEL, Destination: STUDENT STORE, Distance: 200
+Source: GIRLS HOSTEL, Destination: BOYS HOSTEL, Distance: 200
+Source: BOYS HOSTEL, Destination: ENTERENCE-1, Distance: 2050
+Source: BOYS HOSTEL, Destination: ENTERENCE-2, Distance: 2550
+Source: BOYS HOSTEL, Destination: BIKE PARKING, Distance: 2150
+Source: BOYS HOSTEL, Destination: CAR PARKING, Distance: 1850
+Source: BOYS HOSTEL, Destination: AUDITORIUM, Distance: 1650
+Source: BOYS HOSTEL, Destination: LAB BLOCK, Distance: 1900
+Source: BOYS HOSTEL, Destination: MAIN BLOCK, Distance: 1700
+Source: BOYS HOSTEL, Destination: IT BLOCK, Distance: 1500
+Source: BOYS HOSTEL, Destination: LIBRARY BLOCK, Distance: 1500
+Source: BOYS HOSTEL, Destination: MSC BLOCK, Distance: 1400
+Source: BOYS HOSTEL, Destination: TEMPLE, Distance: 1400
+Source: BOYS HOSTEL, Destination: MAIN GROUND, Distance: 1100
+Source: BOYS HOSTEL, Destination: CANTEEN, Distance: 750
+Source: BOYS HOSTEL, Destination: FOOD STREET, Distance: 650
+Source: BOYS HOSTEL, Destination: STUDENT STORE, Distance: 400
+Source: BOYS HOSTEL, Destination: GIRLS HOSTEL, Distance: 200
